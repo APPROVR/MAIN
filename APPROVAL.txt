@@ -2,4 +2,4 @@ SHR-✓-DC0B2C0532-CCE
 SHR-✓-524DD0976B-CCE== 
 SHR-✓-3B860CC51D-CCE== ကေခိုင်လင်း
 SHR-✓-87FEEADAA1-CCE== အောင်ဇော်ထွန်း
-
+SHR-✓-269C53671C-CCE== ပိုင်ရီး
